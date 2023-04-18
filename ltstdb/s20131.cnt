@@ -1,0 +1,124 @@
+
+ST ANNOTATIONS IN THE RECORD s20131  (Duration: 20:55:10.000)
+
+Starting time, recording date:  13:43:00 17/05/1995
+
+Lead 0: ML2
+Lead 1: MV2
+
+A. Criteria of 30 seconds and  75 microVolts (s20131.sta)
+
+Lead 0:
+Ischemic episodes:          31   Duration:    4:35:04  21.91% 
+Rate-related episodes:       0   Duration:       0:00   0.00% 
+Axis shifts:                 2 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00% 
+
+Lead 1:
+Ischemic episodes:           0   Duration:       0:00   0.00% 
+Rate-related episodes:       4   Duration:      28:14   2.25% 
+Axis shifts:                 0 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00% 
+
+Total:
+Ischemic episodes:          31   Duration:    4:35:04  10.96%
+Rate-related episodes:       4   Duration:      28:14   1.12%
+Axis shifts:                 2 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+Combined:
+Ischemic episodes:          31   Duration:    4:35:04  21.91% 
+Rate-related episodes:       8   Duration:      20:02   1.60%
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+Combined [ischemic or rate-related]:
+ST segment episodes:        26   Duration:    4:55:06  23.51%
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+B. Criteria of 30 seconds and 100 microVolts (s20131.stb)
+
+Lead 0:
+Ischemic episodes:          19   Duration:    4:10:08  19.93% 
+Rate-related episodes:       0   Duration:       0:00   0.00% 
+Axis shifts:                 2 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00% 
+
+Lead 1:
+Ischemic episodes:           0   Duration:       0:00   0.00% 
+Rate-related episodes:       1   Duration:       9:42   0.77% 
+Axis shifts:                 0 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00% 
+
+Total:
+Ischemic episodes:          19   Duration:    4:10:08   9.96%
+Rate-related episodes:       1   Duration:       9:42   0.39%
+Axis shifts:                 2 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+Combined:
+Ischemic episodes:          19   Duration:    4:10:08  19.93% 
+Rate-related episodes:       2   Duration:       8:28   0.67%
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+Combined [ischemic or rate-related]:
+ST segment episodes:        18   Duration:    4:18:36  20.60%
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+C. Criteria of 60 seconds and 100 microVolts (s20131.stc)
+
+Lead 0:
+Ischemic episodes:          16   Duration:    4:00:48  19.18% 
+Rate-related episodes:       0   Duration:       0:00   0.00% 
+Axis shifts:                 2 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00% 
+
+Lead 1:
+Ischemic episodes:           0   Duration:       0:00   0.00% 
+Rate-related episodes:       1   Duration:       9:42   0.77% 
+Axis shifts:                 0 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00% 
+
+Total:
+Ischemic episodes:          16   Duration:    4:00:48   9.59%
+Rate-related episodes:       1   Duration:       9:42   0.39%
+Axis shifts:                 2 
+Conduction-change shifts:    0 
+Noisy events:                0 
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+Combined:
+Ischemic episodes:          16   Duration:    4:00:48  19.18% 
+Rate-related episodes:       1   Duration:       9:34   0.76%
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+Combined [ischemic or rate-related]:
+ST segment episodes:        16   Duration:    4:10:22  19.95%
+Unreadable intervals:        0   Duration:       0:00   0.00%
+
+
+QRS ATRUTH ANNOTATIONS                   (s20131.atr)
+
+Total number of beats                          106300
+
+Normal beats                                   105765
+Aberrated atrial premature beats                    1
+Premature ventricular contractions                495
+Fusions of ventricular and normal beat              6
+Supraventricular premature or ectopic beats        33
+
